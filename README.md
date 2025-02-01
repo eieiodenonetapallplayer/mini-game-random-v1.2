@@ -25,7 +25,7 @@ A simple random game where players can open virtual cases to receive random in-g
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/proleak-innovation/mini-gmae-random-v1.1.git
+git clone https://github.com/eieiodenonetapallplayer
 ```
 
 ### 2. Install dependencies:
@@ -76,4 +76,4 @@ project/
 ## License
 
 For any inquiries or assistance, please reach out to:  
-**Email:** [center@proleakinnovation.com](mailto:center@proleakinnovation.com)
+**Email:** [goodplaceofficer@gmail.com](mailto:goodplaceofficer@gmail.com)
